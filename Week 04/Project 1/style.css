@@ -1,0 +1,29 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    background-color: #f9f5ed;
+}
+nav{
+    padding: 20px 10%;
+    height: 15vh;
+}
+nav ul {
+    display: flex;
+    align-items: center;
+    gap: 30px;
+}
+nav ul li {
+    list-style: none;
+    font-weight: 500;
+}
+main {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.images2 {
+    padding-top: 60%;
+}
+.
+
