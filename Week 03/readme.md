@@ -6,6 +6,7 @@
 
 ### Output
 
+[Solution](./Project%2001/index.html.readme.md)
 ![Project 1](./Project%2001/output.png)
 
 - Make HTML and CSS Again.
