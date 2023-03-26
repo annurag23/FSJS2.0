@@ -6,7 +6,7 @@
 
 ### Output
 
-[Solution](.//c:/Users/This PC/Desktop/fsjs2.0/Week 03/Project 01/.readme.md)
+[Solution](./c:/Users/This PC/Desktop/fsjs2.0/Week 03/Project 01/.readme.md)
 ![Project 1](./Project%2001/output.png)
 
 - Make HTML and CSS Again.
